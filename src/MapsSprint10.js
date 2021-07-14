@@ -5,7 +5,7 @@ import L from 'leaflet';
 import icon from 'leaflet/dist/images/marker-icon.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
 
-function Maps(){
+function MapsSprint10(){
 
     // cinnamon네
     const [lat, setLat] = useState('37.576429');
@@ -72,4 +72,4 @@ function Maps(){
     )
 }
 
-export default Maps;
+export default MapsSprint10;
